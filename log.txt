@@ -1,8 +1,0 @@
-CREATE TABLE wp_lojaautomatica (
-         id       bigint(20) auto_increment primary key,
-         nome_categoria_ml varchar(100),
-         categoria_ml int(11),
-         categoria_wp int(11),
-         pai int(11),
-         ultima_verificacao varchar(20) 
-         );
