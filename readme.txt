@@ -9,6 +9,14 @@ Quer abrir uma loja e não tem produtos para vender? Sem problemas. O plugin Loj
 
 == Description ==
 
+Você tem um bom domínio e que ganhar uma grana com ele? O melhor a fazer é abrir uma loja.
+
+Não tem produtos? Não tem tempo? Não tem capital?
+
+Sem problemas. O plugin Loja Automática transforma uma instalação do Wordpress em uma loja que vende produtos do Mercado Livre onde você ganha comissão pelas vendas. O único trabalho que você vai ter é de definir quais os tipos de produtos que serão vendidos na loja.
+
+Se você duvida que pode dar certo, sugiro dar uma olhada no que escrevi em meu blog sobre ter [ganhado mais de R$ 9.000 em um ano com o Mercado Sócios](http://blog.gesing.com.br/2012/04/mercadosocios-recebi-r-9-12927-em-um-ano/).
+
 **Principais Recursos:**
 
 1. Crie sua loja facilmente.
